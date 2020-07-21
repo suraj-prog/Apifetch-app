@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ApiFetch</string>
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid Email</string>
+    <string name="phoneerror">Enter a valid Phone no.</string>
+    <string name="messageerror">Enter a Message</string>
+    <string name="text">Dashboard</string>
+</resources>
